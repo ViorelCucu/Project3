@@ -1,0 +1,31 @@
+IT
+
+IT is actually composed of 2 project teams, and 4 programmers.
+This month, 116 days have been consummed by 4 programmers, and 135 days still in charge.
+
+
+
+Project teams details: 
+
+
+
+Project team: Java
+
+
+Viorel, Cucu, in charge of Java from 08.04.2019 to 07.06.2019 (duration 61), this month : 49 days (total cost = 980)
+
+
+Andrei, Popescu, in charge of Java from 03.06.2019 to 12.07.2019 (duration 30), this month : 44 days (total cost = 880)
+
+
+
+Project team: C#
+
+
+David, Ion, in charge of C# from 31.05.2019 to 20.06.2019 (duration 21), this month : 19 days (total cost = 95)
+
+
+Maria, Crin, in charge of C# from 31.05.2019 to 22.06.2019 (duration 23), this month : 20 days (total cost = 100)
+
+
+
